@@ -1,7 +1,7 @@
 package algomath.chap5.sec2;
 
 import java.util.Scanner;
-
+// ID 059
 public class Code1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

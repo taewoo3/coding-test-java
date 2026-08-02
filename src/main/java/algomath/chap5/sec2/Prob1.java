@@ -1,7 +1,9 @@
 package algomath.chap5.sec2;
 
 import java.util.Scanner;
-
+// ID 061
+// 문제 번역이 이상함
+// 돌을 잡을 수 있는 조건이 잘못됨
 public class Prob1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
